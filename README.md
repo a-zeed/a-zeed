@@ -26,7 +26,8 @@ Welcome to my GitHub! I’m passionate about uncovering trends and building solu
 ## 📂 Featured Projects  
 Here are a few projects that showcase my skills:  
 - 🧠 [CareerEx Data Science Capstone – Income Prediction](https://github.com/a-zeed/CareerEx-Data-Science-Project)
-- 🔢 [Insurance Premium Prediction Project]
+- 🔢 [Insurance Premium Prediction Project](https://github.com/a-zeed/insurance-premium-prediction)
+- - 🌍 [Khana Flood and Oil Spill Exposure Mapping](https://github.com/a-zeed/khana-flood-oilspill-project)
 
 ---
 
