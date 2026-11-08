@@ -26,7 +26,6 @@ Welcome to my GitHub! I’m passionate about uncovering trends and building solu
 ## 📂 Featured Projects  
 Here are a few projects that showcase my skills:  
 - 🧠 [CareerEx Data Science Capstone – Income Prediction](https://github.com/A-zeed/income-prediction)  
-- 📊 [Google Data Analytics Capstone – Cyclistic Bike Share Analysis]
 - 🔢 [Insurance Premium Prediction Project]
 
 ---
