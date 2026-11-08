@@ -42,7 +42,7 @@ Here are a few projects that showcase my skills:
 <!-- Social / Contact -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
+  <a href="https://linkedin.com/in/azeemah-sullayman">
     <img src="https://img.shields.io/badge/Azeemah%20Sullayman-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn profile" />
   </a>
 </p>
