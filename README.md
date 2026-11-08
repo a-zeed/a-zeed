@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I'm Azeemah Sullayman  
+# 👋🏽 Hi, I'm Azeemah 
 
 🎯 **Data Analyst | Aspiring Data Scientist | Turning data into insight and action**  
 
