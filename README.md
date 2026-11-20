@@ -37,13 +37,15 @@ Here are a few projects that showcase my skills:
 
 ---
 
-## 📫 Let’s Connect!  
+📫 Let’s Connect!
 
 <!-- Social / Contact -->
-
 <p align="center">
   <a href="https://linkedin.com/in/azeemah-sullayman">
     <img src="https://img.shields.io/badge/Azeemah%20Sullayman-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn profile" />
+  </a>
+  <a href="https://azeemah.vercel.app">
+    <img src="https://img.shields.io/badge/My%20Portfolio-111827?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio website" />
   </a>
 </p>
 
